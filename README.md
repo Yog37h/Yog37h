@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yog37h&label=Profile%20views&color=0e75b6&style=flat" alt="yog37h" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yog37h" alt="yog37h" /></a> </p>
 
 - 📫 Reach me : **kiyogesh80@gmail.com**
 
