@@ -1,4 +1,4 @@
-![Header](./pin.png)
+![Header](./yog.png)
 
 # 💫 About Me:
 🔭 Fullstack Friendly Bud ⚡ <br>💬 @ Vibe Coder<br>
