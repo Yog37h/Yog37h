@@ -1,7 +1,7 @@
 ![Header](./yog.png)
 
 # 💫 About Me:
-🔭 Fullstack Friendly Bud ⚡ <br>💬 @ Vibe Coder<br>
+🔭 Fullstack Friendly Bud ⚡ <br>💬 @ Compiling dreams<br>
 
 
 ## 🌐 Socials:
